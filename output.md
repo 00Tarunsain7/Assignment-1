@@ -1,5 +1,6 @@
 Q1. How can you output “Physics” and “Wallah” in two different lines in C++?
 output -
+![Output-1](https://github.com/00Tarunsain7/Assignment-1/assets/127669147/2f5301a9-5207-4e58-a92e-a9f3cda41a4e)
 
 Q2. Write a program to print 10 using 2 positive numbers less than 6 in C++ as output.
 output -
